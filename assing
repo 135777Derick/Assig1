@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Write C++ code here
+    int base, height;
+    double Area;
+/*cout<<"Enter base and height\n";
+    cin>>base;
+    cin>>height;*/
+    base = 10;
+    height = 7;
+    Area = 0.5 * base * height;
+    cout<<"The Area is:"<<Area<<"\n";
+
+    return 0;
+    
+    }
